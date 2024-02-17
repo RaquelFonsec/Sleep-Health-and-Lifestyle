@@ -67,6 +67,8 @@ O conjunto de dados utilizado contém informações sobre indivíduos, incluindo
 ## 5. Execute as Células do Notebook:
    - Execute cada célula do notebook pressionando `Shift + Enter` para ver os resultados das análises.
 
+## o codigo pode ser visualizado em exbootcamp.ipynb
+ 
 ## 6. Contribua (Opcional):
    - Se desejar contribuir, faça as alterações necessárias e abra uma solicitação de recebimento (pull request) ou crie um problema (issue) para discussão.
 
