@@ -41,14 +41,14 @@ O conjunto de dados utilizado contém informações sobre indivíduos, incluindo
    - Navegue até o diretório onde deseja clonar o repositório.
    - Execute o seguinte comando para clonar o repositório:
      ```bash
-     git clone https://github.com/RaquelFonsec/dados.git
+     git clone https://github.com/RaquelFonsec/Sleep-Health-and-Lifestyle
      ```
-     Certifique-se de substituir `RaquelFonsec` pelo seu nome de usuário GitHub.
+     
 
 ## 2. Abra o Jupyter Notebook:
    - Navegue até o diretório do repositório clonado:
      ```bash
-     cd dados
+     cd Sleep-Health-and-Lifestyle
      ```
    - Execute o comando para abrir o Jupyter Notebook:
      ```bash
